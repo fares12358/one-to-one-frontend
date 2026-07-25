@@ -2,9 +2,9 @@ import "./globals.css";
 import { LangProvider } from "@/context/LangContext";
 
 export const metadata = {
-  title: "Valley Seeds | Premium Vegetable Seeds",
+  title: "One to One | Field-Trial Intelligence for Egypt's Seed Market",
   description:
-    "Valley Seeds is Egypt's leading importer of elite vegetable seeds. Connecting global agricultural innovation with Egyptian farmers since 2018.",
+    "One to One is Egypt's first independent field-trial management platform for vegetable seed companies — turning agricultural trials into confident, data-driven launch decisions.",
 };
 
 export default function RootLayout({ children }) {
